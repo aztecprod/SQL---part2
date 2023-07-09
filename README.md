@@ -6,8 +6,9 @@
 ![image](https://github.com/aztecprod/SQL---part2/assets/25949605/84c74b61-3d7d-4a05-a5a8-da7a6f43259e)
 ![image](https://github.com/aztecprod/SQL---part2/assets/25949605/2e525fcf-4c9c-4c8e-bc96-c3caa35e7148)
 ![image](https://github.com/aztecprod/SQL---part2/assets/25949605/8d236d8c-5804-4802-ac2a-486234accdab)
-![image](https://github.com/aztecprod/SQL---part2/assets/25949605/57e53ac6-4222-4347-8af6-da4b8c5fb82b)
-![image](https://github.com/aztecprod/SQL---part2/assets/25949605/64a35d49-6e3a-49cb-ad85-0b995cfb7381)
+![image](https://github.com/aztecprod/SQL---part2/assets/25949605/ff09b396-ff75-4c37-8656-d047495fad90)
+![image](https://github.com/aztecprod/SQL---part2/assets/25949605/bf42ea6e-6563-4962-a09f-3aa7c5b9e077)
 ![image](https://github.com/aztecprod/SQL---part2/assets/25949605/3c4d72a1-4b15-46db-b39d-04841336d3c9)
-![image](https://github.com/aztecprod/SQL---part2/assets/25949605/703bfed8-6b23-42f4-b0f9-b56559cac0cf)
-![image](https://github.com/aztecprod/SQL---part2/assets/25949605/86850127-8c36-48df-b7a8-bc9796ed6f14)
+![image](https://github.com/aztecprod/SQL---part2/assets/25949605/3166bc4f-10f6-4638-8ff4-8671b3abfc4b)
+![image](https://github.com/aztecprod/SQL---part2/assets/25949605/427dc22b-f53b-483d-ada1-661ca515654b)
+
