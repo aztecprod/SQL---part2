@@ -9,6 +9,7 @@
 ![image](https://github.com/aztecprod/SQL---part2/assets/25949605/ff09b396-ff75-4c37-8656-d047495fad90)
 ![image](https://github.com/aztecprod/SQL---part2/assets/25949605/bf42ea6e-6563-4962-a09f-3aa7c5b9e077)
 ![image](https://github.com/aztecprod/SQL---part2/assets/25949605/3c4d72a1-4b15-46db-b39d-04841336d3c9)
-![image](https://github.com/aztecprod/SQL---part2/assets/25949605/3166bc4f-10f6-4638-8ff4-8671b3abfc4b)
-![image](https://github.com/aztecprod/SQL---part2/assets/25949605/427dc22b-f53b-483d-ada1-661ca515654b)
+![image](https://github.com/aztecprod/SQL---part2/assets/25949605/4b9b9755-f3e8-49df-abb9-64cecad70698)
+![image](https://github.com/aztecprod/SQL---part2/assets/25949605/b3b1c870-6ff8-49dd-8463-67de1c030e15)
+
 
