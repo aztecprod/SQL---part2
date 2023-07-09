@@ -1,1 +1,13 @@
-# SQL---part2
+# SQL. Часть 2 - Александр Шевцов
+![image](https://github.com/aztecprod/SQL---part2/assets/25949605/bf7be7ae-4f3b-4031-93ff-85d3c417bad7)
+![image](https://github.com/aztecprod/SQL---part2/assets/25949605/103745d6-2a73-41fa-b239-d50d824aa22a)
+![image](https://github.com/aztecprod/SQL---part2/assets/25949605/db312540-9949-4787-8cbf-e45b6f103a59)
+![image](https://github.com/aztecprod/SQL---part2/assets/25949605/5912efc6-608d-43a8-9026-dc46fe07f9fc)
+![image](https://github.com/aztecprod/SQL---part2/assets/25949605/84c74b61-3d7d-4a05-a5a8-da7a6f43259e)
+![image](https://github.com/aztecprod/SQL---part2/assets/25949605/2e525fcf-4c9c-4c8e-bc96-c3caa35e7148)
+![image](https://github.com/aztecprod/SQL---part2/assets/25949605/8d236d8c-5804-4802-ac2a-486234accdab)
+![image](https://github.com/aztecprod/SQL---part2/assets/25949605/57e53ac6-4222-4347-8af6-da4b8c5fb82b)
+![image](https://github.com/aztecprod/SQL---part2/assets/25949605/64a35d49-6e3a-49cb-ad85-0b995cfb7381)
+![image](https://github.com/aztecprod/SQL---part2/assets/25949605/3c4d72a1-4b15-46db-b39d-04841336d3c9)
+![image](https://github.com/aztecprod/SQL---part2/assets/25949605/703bfed8-6b23-42f4-b0f9-b56559cac0cf)
+![image](https://github.com/aztecprod/SQL---part2/assets/25949605/86850127-8c36-48df-b7a8-bc9796ed6f14)
